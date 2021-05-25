@@ -12,3 +12,5 @@ https://GinleyP87.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Patrick Ginley
+
+### ©️2019 Run Buddy, Inc
