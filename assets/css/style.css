@@ -29,7 +29,7 @@ header a {
     color: #fce138;
 }
 
-header nav {555565
+header nav {
     margin: 7px 0;
 }
 
@@ -243,7 +243,7 @@ section {
 }
 
 .trainer {
-    margin: 20 px;
+    margin: 20px;
     flex: 1;
     background: #024e76;
     color: #fce138;
@@ -259,11 +259,11 @@ section {
 }
 
 .trainer-bio h3 {
-    font-size:28px;
+    font-size: 28px;
 }
  
 .trainer-bio h4 {
-    font-weight:lighter;
+    font-weight: lighter;
     font-size: 22px;
     margin-bottom: 15px;
 }
@@ -271,6 +271,10 @@ section {
 .trainer-bio p {
     font-size: 17px;
 }
+
+
+/* Text Shift*/
+
 
 .text-left {
     text-align: left;
@@ -281,8 +285,8 @@ section {
 }
 
 
-
 /* REACH OUT */
+
 
 .contact {
     background: #024e76;
