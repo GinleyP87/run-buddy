@@ -12,8 +12,7 @@
     padding: 0 80px 15px 80px;
     font-weight: 400;
     font-size: 42px;
-    font-style: italic
-
+    font-style: italic;
 }
 
 .secondary-content {
@@ -24,7 +23,7 @@
 
 .secondary-content h3 {
     font-size: 25px;
-    margin:20px 0
+    margin: 20px 0
 }
 
 .secondary-content p {
